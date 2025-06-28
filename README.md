@@ -19,7 +19,9 @@ Primary Dataset: [[https://peter-tanner.com/moneypuck/downloads/shots_2007-2023.
 
 ## Tools Used
 Excel, Python
+
 Canva
+
 Pandas, Matplotlib, NumPy, Seaborn
 
 ## Methodology
