@@ -5,7 +5,7 @@ In this project I am going to be analyzing how goal scoring has changed in the N
 I will be analyzing to see what has caused goal scoring to change and if there is a moment that can be pinpointed as when it changed.
 
 ## Datasets
-Primary Dataset: [[text](data/shots_2007-2023.csv)]
+Primary Dataset: [(data/shots_2007-2023.csv)]
 
 ## Key Questions
 - Q1: What is being analyzed?
@@ -38,7 +38,9 @@ https://www.canva.com/design/DAGqqu_wNCA/WKfxRRNejttTWo7hmLJi9g/edit?utm_content
 
 ## Contact Information
 Steven H Farrar
+
 Email: huntfarrar@gmail.com
+
 LinkedIn: www.linkedin.com/in/steven-h-farrar
 
 Capstone for DA14 by Hunter Farrar.
